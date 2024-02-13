@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('https://www.criogene.es/wp-content/uploads/2018/04/adn-informacion.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  
+  #container {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #060000;
+    border-radius: 5px;
+    background-color: #fff;
+    background-image: url('https://medlineplus.gov/images/CellsAndDNA_Share.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  
+  input {
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
